@@ -1,0 +1,112 @@
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.exe
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.deps.json
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.json
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.dev.json
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\brans\source\repos\PruebasForm\FrmUno\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmUno.FrmAgregar.resources
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmUno.FrmPrincipal.resources
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfoInputs.cache
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfo.cs
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CopyComplete
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.genruntimeconfig.cache
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.FrmXml.resources
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.Properties.Resources.resources
+C:\Users\brans\source\repos\PruebasForm\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.FrmArchivos.resources
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.exe
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.deps.json
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.json
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.dev.json
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmUno.FrmAgregar.resources
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.FrmArchivos.resources
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmUno.FrmPrincipal.resources
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.FrmXml.resources
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.Properties.Resources.resources
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfoInputs.cache
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfo.cs
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CopyComplete
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.exe
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.deps.json
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.json
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmUno.FrmAgregar.resources
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.FrmArchivos.resources
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmUno.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.FrmXml.resources
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Universidad\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.exe
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.deps.json
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.json
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmUno.FrmAgregar.resources
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.FrmArchivos.resources
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmUno.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.FrmXml.resources
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\Usuario\Desktop\TP-04\Suarez.Brandon.2A.TP3\FrmUno\obj\Debug\net5.0-windows\FrmPrincipal.genruntimeconfig.cache
