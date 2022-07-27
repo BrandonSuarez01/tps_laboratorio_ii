@@ -1,0 +1,4 @@
+tp-2 = No mostraba por consola lo que tenia que mostrar(Corregido).
+tp-3 = No tenia test unitarios, ademas de otros errores(Corregido).
+tp-4 = No funcionaba el query de sql(corregido), no tenia exception en archivos(corregido)
+ahora tiene servicios y reclamos, No guardaba los clientes(corregido).
