@@ -1,0 +1,36 @@
+C:\Users\brans\source\repos\PruebasForm\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\brans\source\repos\PruebasForm\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brans\source\repos\PruebasForm\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\brans\source\repos\PruebasForm\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\brans\source\repos\PruebasForm\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\brans\source\repos\PruebasForm\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\brans\source\repos\PruebasForm\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\brans\source\repos\PruebasForm\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\brans\source\repos\PruebasForm\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\brans\source\repos\PruebasForm\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\brans\source\repos\PruebasForm\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\brans\source\repos\PruebasForm\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\brans\Desktop\TrabajosPracticos 2DO\tps_laboratorio_ii\TP-03\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Universidad\TPS CORRECCION\TP-03-Corregido\Suarez.Brandon.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.pdb
